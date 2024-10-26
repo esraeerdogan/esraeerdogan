@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on HTML,CSS,JS,C#,Python.
+- 🔭 I’m currently working on HTML,CSS,JS,C#,Python,PHP.
 - 🌱 I’m currently learning PROGRAMMING,CYBER SECURITY.
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
